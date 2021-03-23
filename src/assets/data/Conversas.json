@@ -1,0 +1,46 @@
+[
+    {
+        "nome":"Teste",
+        "conversas":[
+            {
+                "enviado":true,
+                "mensagem":"Oi, tudo bem?",
+                "tempo": "12:45",
+                "chegou":true,
+                "visualizado":true
+            },
+            {
+                "enviado":false,
+                "mensagem":"Sim e com vc?",
+                "tempo": "12:45",
+                "chegou":true
+            }
+        ]
+    },
+    {
+        "nome":"Fhelipe",
+        "conversas":[
+            {
+                "enviado":true,
+                "mensagem":"Oi, tudo bem?",
+                "tempo": "12:45",
+                "chegou":true,
+                "visualizado":true
+            },
+            {
+                "enviado":false,
+                "mensagem":"Sim e com vc?",
+                "tempo": "12:45",
+                "chegou":true
+            },
+            {
+                "enviado":true,
+                "mensagem":"Estou bem tmb",
+                "tempo": "12:46",
+                "chegou":true,
+                "visualizado":true
+            }
+        ]
+    }
+
+]
